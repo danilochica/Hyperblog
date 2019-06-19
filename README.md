@@ -1,2 +1,4 @@
-# Hyperblog
-Este es un blog que se está realizando en el curso de Git y Github de platzi
+### Hyperblog
+
+------------
+- Este repositorio contiene los registros de las prácticas del curso de Git y GitHub profesional realizado en Platzi
